@@ -1,4 +1,4 @@
 functionName: Backstage_Lambda_Function
 handler: lambda_handler
 role: arn:aws:iam::851458596278:role/service-role/lambdaEC2Role
-runtime: python3
+runtime: python3.12
